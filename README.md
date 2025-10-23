@@ -45,4 +45,4 @@ Automate categorization using a small language model API (OpenAI / Hugging Face)
 ---
 
 👩‍💻 Author: **Aurélie Mazet**  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+🔗 [LinkedIn](https://www.linkedin.com/in/aurelie-mazet)
